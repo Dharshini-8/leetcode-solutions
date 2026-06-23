@@ -1,4 +1,5 @@
 class Solution {
+    //test
     public int numSub(String s) {
         long c=0;
         long r=0;
